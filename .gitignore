@@ -1,1 +1,5 @@
 .venv/
+
+lab_1/src/__pycache__
+lab_2/src/__pycache__
+lab_3/src/__pycache__
